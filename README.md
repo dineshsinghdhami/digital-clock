@@ -29,7 +29,7 @@ A **responsive, modern digital clock** with **AM/PM indicator, dark/light mode, 
 
 ## 🌐 Demo
 
-You can view the demo [here](https://dineshsinghdhami.com.np) 💻
+You can view the demo [here](https://thecodingdhami.github.io/digital-clock/) 💻
 
 ---
 
