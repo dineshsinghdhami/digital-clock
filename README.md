@@ -5,7 +5,7 @@
 ![Mobile Friendly](https://img.shields.io/badge/Mobile_Friendly-Yes-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
-A **responsive, modern digital clock** with **AM/PM indicator, dark/light mode, smooth fade animations, and glowing neon effect**. ✨🕒
+A **responsive, modern digital clock** with **AM/PM indicator, dark/light mode**. ✨🕒
 
 ---
 
