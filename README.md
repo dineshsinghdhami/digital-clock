@@ -27,35 +27,18 @@ A **responsive, modern digital clock** with **AM/PM indicator, dark/light mode**
 
 ---
 
-## 🌐 Demo
+## 🛠️ Technologies Used
 
-You can view the demo [here](https://dineshsinghdhami.com.np/digital-clock/) 💻
-
----
-
-
-⚡ Usage
-
-Click "Toggle Dark/Light Mode" 🌓 to switch themes.
-
-Click "" 🔗 to visit the website with a smooth fade animation.
+| Technology | Badge |
+|------------|-------|
+| HTML      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) |
+| CSS       | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ---
 
-🛠️ Technologies Used
+## ©️ Copyright
 
-HTML5 📝
-
-CSS3 🎨
-
-JavaScript 💻
-
----
-
-📄 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
-
----
-
-© 2025 Dinesh Singh Dhami 🌟
+- © 2025 Dinesh Singh Dhami — All Rights Reserved.
+- This project is licensed for personal and educational use.
+- For commercial use or redistribution, please contact the owner.
