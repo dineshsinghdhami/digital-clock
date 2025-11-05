@@ -27,6 +27,19 @@ A **responsive, modern digital clock** with **AM/PM indicator, dark/light mode**
 
 ---
 
+## 📁 Project Structure
+
+```
+Temperature-Converter/
+│
+├── index.html
+├── style.css
+├── script.js
+└── clock.png
+```
+
+---
+
 ## 🛠️ Technologies Used
 
 | Technology | Badge |
