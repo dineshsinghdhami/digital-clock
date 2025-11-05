@@ -30,7 +30,7 @@ A **responsive, modern digital clock** with **AM/PM indicator, dark/light mode**
 ## 📁 Project Structure
 
 ```
-Temperature-Converter/
+Digital-clock/
 │
 ├── index.html
 ├── style.css
